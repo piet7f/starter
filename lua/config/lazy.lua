@@ -26,11 +26,6 @@ require("lazy").setup({
         { import = "lazyvim.plugins.extras.lang.clangd" },
         { import = "lazyvim.plugins.extras.lang.java" },
 
-        { import = "lazyvim.plugins.extras.formatting.black" },
-        { import = "lazyvim.plugins.extras.formatting.prettier" },
-        { import = "lazyvim.plugins.extras.linting.eslint" },
-
-        { import = "lazyvim.plugins.extras.coding.luasnip" },
         { import = "lazyvim.plugins.extras.ui.mini-indentscope" },
         { import = "lazyvim.plugins.extras.editor.telescope" },
 
